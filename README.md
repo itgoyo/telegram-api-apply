@@ -27,9 +27,13 @@
 
 关联问题：
 Telegram API申请报错
+
 TG api申请一直Error，请问是什么原因导致的？
+
 完美解决tgapi
+
 求一个关于申请telegram api 报错的解决方案
+
 telegram 无法申请api token
 
 
