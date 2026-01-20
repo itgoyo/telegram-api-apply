@@ -21,7 +21,9 @@
 
 二、更换纯净的家庭IP、而不是使用机房IP，有条件的可以自建，而不是用万人骑的节点
 
-三、[闪连VPN](https://lightningxvpn.com/download?inviteCode=55151480)
+三、[闪连VPN](https://lightningxvpn.com/download?inviteCode=55151480) (日本的东京-6可申请成功)
+
+<img src="https://cdn.jsdelivr.net/gh/AZeC4/img@master/img/524A4F31-204C-49B5-B96B-FA324435CD87.png" width="400" height="auto">
 
 之前我也看不上这种客户端软件，但是后面机场浪费钱换了无数家之后，然后有个客户说他自己用`闪连VPN`申请成功之后，我就尝试了一下，最后在**日本的东京-6**节点申请成功了，价格有点贵，但是贵有贵的道理，开一个最短的周套餐即可。有条件的把所有号都申请了，免得下次再过来买。
 
